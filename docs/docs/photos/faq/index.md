@@ -69,6 +69,17 @@ Jump to a category:
 - [What happens if I reorganize my photos in the iOS Photos app after backing up?](/photos/faq/albums-and-organization#ios-reorganize)
 - [How does Ente handle photos that are part of multiple iOS albums?](/photos/faq/albums-and-organization#multiple-ios-albums)
 
+### Slideshows
+
+- [What does Slideshow do?](/photos/faq/albums-and-organization#what-is-album-slideshow)
+- [How do I start a slideshow from an album?](/photos/faq/albums-and-organization#start-album-slideshow)
+- [Can I create one slideshow from multiple albums?](/photos/faq/albums-and-organization#slideshow-multiple-albums)
+- [What can I change during a slideshow?](/photos/faq/albums-and-organization#album-slideshow-settings)
+- [How do I control a slideshow?](/photos/faq/albums-and-organization#control-album-slideshow)
+- [Which items appear in an album slideshow?](/photos/faq/albums-and-organization#album-slideshow-supported-items)
+- [Can I use an album slideshow without an internet connection?](/photos/faq/albums-and-organization#album-slideshow-offline)
+- [Can I start a slideshow from On device albums or Gallery mode?](/photos/faq/albums-and-organization#album-slideshow-gallery-mode)
+
 ### Uncategorized
 
 - [What is the Uncategorized album?](/photos/faq/albums-and-organization#what-is-uncategorized)
