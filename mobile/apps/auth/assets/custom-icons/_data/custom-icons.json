@@ -1615,6 +1615,10 @@
       "title": "nasdaq",
       "hex": "0090BA"
     },
+      {
+      "title": "Nationbuilder",
+      "slug": "nationbuilder"
+      },
     {
       "title": "NekoHosting",
       "slug": "nekohosting",
@@ -2596,6 +2600,14 @@
         "Utrecht University",
         "Universiteit Utrecht",
         "uu"
+      ]
+    },
+      {
+      "title": "Vancity Credit Union",
+      "slug": "vancity",
+      "altNames": [
+        "Vancouver Community Credit Union",
+        "Vancity"
       ]
     },
     {
